@@ -28,7 +28,7 @@ An eCommerce microservice architecture with an API Gateway includes independent 
 <details>
 <summary>Toggle List Example</summary>
 
-### Heading
+### Content:
 1. [Intro](https://github.com/MinenhleNkosi/eCommerse-Microservice-.NET8/tree/main/Notes/0)
 2. DEF
 </details>
